@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest --verbose --coverage",
+    "test": "jest --verbose --coverage && coveralls < coverage/lcov.info",
     "lint": "eslint ."
   },
   "jest": {
@@ -28,6 +28,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "coveralls": "^3.1.0",
     "jest-html-reporter": "^3.3.0"
   },
   "devDependencies": {
