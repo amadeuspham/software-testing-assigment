@@ -1,4 +1,4 @@
-import add from '../add.js'
+import add from '../../add.js'
 
 describe('add should sum two numbers', () => {
   it('should sum two positive integer', () => {
