@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "jest --verbose --coverage && coveralls < coverage/lcov.info",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
   },
   "jest": {
     "transform": {
