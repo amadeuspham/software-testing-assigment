@@ -1,6 +1,6 @@
-import every from "../../every"
+import every from '../../every'
 
-describe("every should check if all array values are truthy according to a given predicate", () => {
+describe('every should check if all array values are truthy according to a given predicate', () => {
   it('should check properly when values are converted to Booleans', () => {
     expect(every([true, 1, null, 'yes'], Boolean)).toBe(false)
     expect(every([true, 1, 10, 'yes'], Boolean)).toBe(true)

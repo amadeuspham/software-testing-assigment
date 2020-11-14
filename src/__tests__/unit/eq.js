@@ -1,8 +1,8 @@
-import eq from "../../eq"
+import eq from '../../eq'
 
 describe('eq tells whether two values are equivalent', () => {
   it('should be able to differentiate between values of different types', () => {
-    expect(eq("1", 1)).toStrictEqual(false)
+    expect(eq('1', 1)).toStrictEqual(false)
   })
   it('should be able to compare numbers', () => {
     expect(eq(1, 2)).toStrictEqual(false)
@@ -10,8 +10,8 @@ describe('eq tells whether two values are equivalent', () => {
     expect(eq(NaN, NaN)).toStrictEqual(true)
   })
   it('should be able to compare strings', () => {
-    expect(eq("lo", "hi")).toStrictEqual(false)
-    expect(eq("lo", "lo")).toStrictEqual(true)
+    expect(eq('lo', 'hi')).toStrictEqual(false)
+    expect(eq('lo', 'lo')).toStrictEqual(true)
   })
   it('should be able to compare booleans', () => {
     expect(eq(true, false)).toStrictEqual(false)
