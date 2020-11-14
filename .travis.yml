@@ -2,7 +2,9 @@ language: node_js
 node_js:
   - 14
 script: echo "Running tests against $(node -v)..."
-
+env:
+  global:
+    - COVERALLS_PARALLEL=true
 jobs:
   include:
     - stage: Linting
@@ -10,7 +12,8 @@ jobs:
     - stage: Testing & producing coverage
       node_js: node
       script: jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
-
+notifications:
+  webhooks: https://coveralls.io/webhook?repo_token=cNTXX3kN0A1I0h701MQnYjmoKvTEyaOot
 addons:
   artifacts: true
   paths:
