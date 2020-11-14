@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1605370011569" clover="3.2.0">
-  <project timestamp="1605370011569" name="All files">
-    <metrics statements="550" coveredstatements="373" conditionals="475" coveredconditionals="234" methods="106" coveredmethods="68" elements="1131" coveredelements="675" complexity="0" loc="550" ncloc="550" packages="2" files="83" classes="83"/>
+<coverage generated="1605370810780" clover="3.2.0">
+  <project timestamp="1605370810781" name="All files">
+    <metrics statements="550" coveredstatements="375" conditionals="475" coveredconditionals="236" methods="106" coveredmethods="68" elements="1131" coveredelements="679" complexity="0" loc="550" ncloc="550" packages="2" files="83" classes="83"/>
     <package name="src">
-      <metrics statements="182" coveredstatements="147" conditionals="195" coveredconditionals="114" methods="44" coveredmethods="38"/>
+      <metrics statements="182" coveredstatements="149" conditionals="195" coveredconditionals="116" methods="44" coveredmethods="38"/>
       <file name="add.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/add.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="16" count="5" type="stmt"/>
@@ -98,16 +98,16 @@
         <line num="28" count="4" type="cond" truecount="1" falsecount="1"/>
       </file>
       <file name="endsWith.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/endsWith.js">
-        <metrics statements="9" coveredstatements="7" conditionals="10" coveredconditionals="8" methods="1" coveredmethods="1"/>
-        <line num="24" count="3" type="stmt"/>
-        <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="26" count="3" type="cond" truecount="3" falsecount="1"/>
-        <line num="27" count="0" type="stmt"/>
-        <line num="29" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="30" count="0" type="stmt"/>
-        <line num="32" count="3" type="stmt"/>
-        <line num="33" count="3" type="stmt"/>
-        <line num="34" count="3" type="cond" truecount="2" falsecount="0"/>
+        <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="29" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="32" count="8" type="stmt"/>
+        <line num="33" count="8" type="stmt"/>
+        <line num="34" count="8" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="eq.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/eq.js">
         <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
