@@ -19,4 +19,4 @@ npm test
 npm run lint
 ```
 
-4. Students
+4. Student
