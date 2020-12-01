@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1606832556271" clover="3.2.0">
-  <project timestamp="1606832556271" name="All files">
-    <metrics statements="573" coveredstatements="422" conditionals="509" coveredconditionals="291" methods="111" coveredmethods="76" elements="1193" coveredelements="789" complexity="0" loc="573" ncloc="573" packages="2" files="87" classes="87"/>
+<coverage generated="1606865039005" clover="3.2.0">
+  <project timestamp="1606865039005" name="All files">
+    <metrics statements="573" coveredstatements="441" conditionals="509" coveredconditionals="340" methods="111" coveredmethods="77" elements="1193" coveredelements="858" complexity="0" loc="573" ncloc="573" packages="2" files="87" classes="87"/>
     <package name="src">
-      <metrics statements="201" coveredstatements="192" conditionals="224" coveredconditionals="167" methods="48" coveredmethods="45"/>
+      <metrics statements="201" coveredstatements="198" conditionals="224" coveredconditionals="196" methods="48" coveredmethods="45"/>
       <file name="add.js" path="/Users/hunganh/TAU/SwTesting/source/src/add.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="16" count="5" type="stmt"/>
@@ -46,16 +46,16 @@
         <line num="35" count="3" type="stmt"/>
       </file>
       <file name="clamp.js" path="/Users/hunganh/TAU/SwTesting/source/src/clamp.js">
-        <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="6" methods="1" coveredmethods="1"/>
-        <line num="19" count="3" type="stmt"/>
-        <line num="20" count="3" type="stmt"/>
-        <line num="21" count="3" type="stmt"/>
-        <line num="22" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="23" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="24" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="26" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="28" count="3" type="stmt"/>
+        <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="22" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="5" type="stmt"/>
       </file>
       <file name="compact.js" path="/Users/hunganh/TAU/SwTesting/source/src/compact.js">
         <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
@@ -85,17 +85,17 @@
         <line num="29" count="5" type="stmt"/>
       </file>
       <file name="difference.js" path="/Users/hunganh/TAU/SwTesting/source/src/difference.js">
-        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="25" count="9" type="cond" truecount="1" falsecount="1"/>
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="25" count="10" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="divide.js" path="/Users/hunganh/TAU/SwTesting/source/src/divide.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="16" count="5" type="stmt"/>
       </file>
       <file name="drop.js" path="/Users/hunganh/TAU/SwTesting/source/src/drop.js">
-        <metrics statements="2" coveredstatements="2" conditionals="7" coveredconditionals="4" methods="1" coveredmethods="1"/>
-        <line num="27" count="4" type="cond" truecount="1" falsecount="1"/>
-        <line num="28" count="4" type="cond" truecount="1" falsecount="1"/>
+        <metrics statements="2" coveredstatements="2" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="27" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="6" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="endsWith.js" path="/Users/hunganh/TAU/SwTesting/source/src/endsWith.js">
         <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
@@ -114,46 +114,46 @@
         <line num="32" count="10" type="cond" truecount="3" falsecount="0"/>
       </file>
       <file name="every.js" path="/Users/hunganh/TAU/SwTesting/source/src/every.js">
-        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="23" count="7" type="stmt"/>
-        <line num="24" count="7" type="cond" truecount="1" falsecount="1"/>
-        <line num="26" count="7" type="stmt"/>
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="23" count="8" type="stmt"/>
+        <line num="24" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="8" type="stmt"/>
         <line num="27" count="21" type="cond" truecount="2" falsecount="0"/>
         <line num="28" count="3" type="stmt"/>
-        <line num="31" count="4" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
       </file>
       <file name="filter.js" path="/Users/hunganh/TAU/SwTesting/source/src/filter.js">
-        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="25" count="2" type="stmt"/>
-        <line num="26" count="2" type="stmt"/>
-        <line num="27" count="2" type="cond" truecount="1" falsecount="1"/>
-        <line num="28" count="2" type="stmt"/>
-        <line num="30" count="2" type="stmt"/>
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
         <line num="31" count="4" type="stmt"/>
         <line num="32" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="33" count="2" type="stmt"/>
-        <line num="36" count="2" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
       </file>
       <file name="get.js" path="/Users/hunganh/TAU/SwTesting/source/src/get.js">
-        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="28" count="9" type="cond" truecount="1" falsecount="1"/>
-        <line num="29" count="9" type="cond" truecount="2" falsecount="0"/>
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="28" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="10" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="isArguments.js" path="/Users/hunganh/TAU/SwTesting/source/src/isArguments.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="4" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="isArrayLike.js" path="/Users/hunganh/TAU/SwTesting/source/src/isArrayLike.js">
         <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="27" count="39" type="cond" truecount="3" falsecount="0"/>
+        <line num="27" count="46" type="cond" truecount="3" falsecount="0"/>
       </file>
       <file name="isArrayLikeObject.js" path="/Users/hunganh/TAU/SwTesting/source/src/isArrayLikeObject.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="28" count="26" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="27" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="isBoolean.js" path="/Users/hunganh/TAU/SwTesting/source/src/isBoolean.js">
-        <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="20" count="2" type="cond" truecount="3" falsecount="1"/>
+        <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="20" count="3" type="cond" truecount="4" falsecount="0"/>
       </file>
       <file name="isBuffer.js" path="/Users/hunganh/TAU/SwTesting/source/src/isBuffer.js">
         <metrics statements="6" coveredstatements="6" conditionals="17" coveredconditionals="14" methods="1" coveredmethods="0"/>
@@ -172,17 +172,17 @@
         <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
       <file name="isEmpty.js" path="/Users/hunganh/TAU/SwTesting/source/src/isEmpty.js">
-        <metrics statements="14" coveredstatements="12" conditionals="19" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <metrics statements="14" coveredstatements="14" conditionals="19" coveredconditionals="18" methods="1" coveredmethods="1"/>
         <line num="9" count="1" type="stmt"/>
-        <line num="46" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="12" type="cond" truecount="2" falsecount="0"/>
         <line num="47" count="1" type="stmt"/>
-        <line num="49" count="5" type="cond" truecount="5" falsecount="4"/>
-        <line num="52" count="2" type="stmt"/>
-        <line num="54" count="3" type="stmt"/>
-        <line num="55" count="3" type="cond" truecount="3" falsecount="1"/>
-        <line num="56" count="0" type="stmt"/>
-        <line num="58" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="59" count="0" type="stmt"/>
+        <line num="49" count="11" type="cond" truecount="9" falsecount="0"/>
+        <line num="52" count="5" type="stmt"/>
+        <line num="54" count="6" type="stmt"/>
+        <line num="55" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="58" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="59" count="1" type="stmt"/>
         <line num="61" count="3" type="stmt"/>
         <line num="62" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="63" count="1" type="stmt"/>
@@ -191,47 +191,47 @@
       <file name="isLength.js" path="/Users/hunganh/TAU/SwTesting/source/src/isLength.js">
         <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
         <line num="2" count="7" type="stmt"/>
-        <line num="29" count="41" type="cond" truecount="4" falsecount="0"/>
+        <line num="29" count="49" type="cond" truecount="4" falsecount="0"/>
       </file>
       <file name="isObject.js" path="/Users/hunganh/TAU/SwTesting/source/src/isObject.js">
         <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="25" count="7" type="stmt"/>
-        <line num="26" count="7" type="cond" truecount="3" falsecount="0"/>
+        <line num="25" count="13" type="stmt"/>
+        <line num="26" count="13" type="cond" truecount="3" falsecount="0"/>
       </file>
       <file name="isObjectLike.js" path="/Users/hunganh/TAU/SwTesting/source/src/isObjectLike.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="24" count="33" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="37" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="isSymbol.js" path="/Users/hunganh/TAU/SwTesting/source/src/isSymbol.js">
-        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="18" count="18" type="stmt"/>
-        <line num="19" count="18" type="cond" truecount="3" falsecount="1"/>
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="18" count="24" type="stmt"/>
+        <line num="19" count="24" type="cond" truecount="4" falsecount="0"/>
       </file>
       <file name="isTypedArray.js" path="/Users/hunganh/TAU/SwTesting/source/src/isTypedArray.js">
         <metrics statements="5" coveredstatements="4" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="1"/>
         <line num="6" count="4" type="stmt"/>
         <line num="9" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="26" count="4" type="cond" truecount="1" falsecount="1"/>
-        <line num="27" count="2" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
         <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
       <file name="keys.js" path="/Users/hunganh/TAU/SwTesting/source/src/keys.js">
-        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="32" count="3" type="cond" truecount="1" falsecount="1"/>
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="32" count="4" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="map.js" path="/Users/hunganh/TAU/SwTesting/source/src/map.js">
-        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="20" count="1" type="stmt"/>
-        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="22" count="1" type="stmt"/>
-        <line num="24" count="1" type="stmt"/>
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
         <line num="25" count="2" type="stmt"/>
-        <line num="27" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
       </file>
       <file name="memoize.js" path="/Users/hunganh/TAU/SwTesting/source/src/memoize.js">
-        <metrics statements="13" coveredstatements="13" conditionals="13" coveredconditionals="10" methods="2" coveredmethods="2"/>
-        <line num="44" count="3" type="cond" truecount="5" falsecount="0"/>
-        <line num="45" count="1" type="stmt"/>
+        <metrics statements="13" coveredstatements="12" conditionals="13" coveredconditionals="9" methods="2" coveredmethods="2"/>
+        <line num="44" count="2" type="cond" truecount="4" falsecount="1"/>
+        <line num="45" count="0" type="stmt"/>
         <line num="47" count="2" type="stmt"/>
         <line num="48" count="7" type="cond" truecount="1" falsecount="1"/>
         <line num="49" count="7" type="stmt"/>
@@ -252,34 +252,34 @@
       </file>
       <file name="slice.js" path="/Users/hunganh/TAU/SwTesting/source/src/slice.js">
         <metrics statements="16" coveredstatements="16" conditionals="16" coveredconditionals="13" methods="1" coveredmethods="1"/>
-        <line num="22" count="19" type="cond" truecount="1" falsecount="1"/>
-        <line num="23" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="20" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="20" type="cond" truecount="2" falsecount="0"/>
         <line num="24" count="1" type="stmt"/>
-        <line num="26" count="18" type="cond" truecount="1" falsecount="1"/>
-        <line num="27" count="18" type="cond" truecount="2" falsecount="0"/>
-        <line num="29" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="19" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="19" type="cond" truecount="2" falsecount="0"/>
         <line num="30" count="2" type="cond" truecount="1" falsecount="1"/>
-        <line num="32" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="19" type="cond" truecount="2" falsecount="0"/>
         <line num="33" count="3" type="stmt"/>
-        <line num="35" count="18" type="cond" truecount="2" falsecount="0"/>
-        <line num="36" count="18" type="stmt"/>
-        <line num="38" count="18" type="stmt"/>
-        <line num="39" count="18" type="stmt"/>
-        <line num="40" count="18" type="stmt"/>
-        <line num="41" count="31" type="stmt"/>
-        <line num="43" count="18" type="stmt"/>
+        <line num="35" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="19" type="stmt"/>
+        <line num="38" count="19" type="stmt"/>
+        <line num="39" count="19" type="stmt"/>
+        <line num="40" count="19" type="stmt"/>
+        <line num="41" count="34" type="stmt"/>
+        <line num="43" count="19" type="stmt"/>
       </file>
       <file name="toFinite.js" path="/Users/hunganh/TAU/SwTesting/source/src/toFinite.js">
-        <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
         <line num="4" count="4" type="stmt"/>
         <line num="5" count="4" type="stmt"/>
-        <line num="29" count="16" type="cond" truecount="2" falsecount="0"/>
-        <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="32" count="15" type="stmt"/>
-        <line num="33" count="15" type="cond" truecount="4" falsecount="0"/>
-        <line num="34" count="2" type="cond" truecount="1" falsecount="1"/>
-        <line num="35" count="2" type="stmt"/>
-        <line num="37" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="17" type="stmt"/>
+        <line num="33" count="17" type="cond" truecount="4" falsecount="0"/>
+        <line num="34" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="37" count="14" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="toInteger.js" path="/Users/hunganh/TAU/SwTesting/source/src/toInteger.js">
         <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
@@ -288,35 +288,35 @@
         <line num="32" count="12" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="toNumber.js" path="/Users/hunganh/TAU/SwTesting/source/src/toNumber.js">
-        <metrics statements="18" coveredstatements="14" conditionals="22" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <metrics statements="18" coveredstatements="18" conditionals="22" coveredconditionals="15" methods="1" coveredmethods="1"/>
         <line num="5" count="5" type="stmt"/>
         <line num="8" count="5" type="stmt"/>
         <line num="11" count="5" type="stmt"/>
         <line num="14" count="5" type="stmt"/>
         <line num="17" count="5" type="stmt"/>
         <line num="20" count="5" type="stmt"/>
-        <line num="45" count="19" type="cond" truecount="2" falsecount="0"/>
-        <line num="46" count="16" type="stmt"/>
-        <line num="48" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="49" count="0" type="stmt"/>
-        <line num="51" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="55" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="58" count="3" type="stmt"/>
-        <line num="59" count="3" type="stmt"/>
-        <line num="60" count="3" type="cond" truecount="3" falsecount="1"/>
+        <line num="45" count="25" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="17" type="stmt"/>
+        <line num="48" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="53" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="55" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="58" count="6" type="stmt"/>
+        <line num="59" count="6" type="stmt"/>
+        <line num="60" count="6" type="cond" truecount="3" falsecount="1"/>
       </file>
       <file name="toString.js" path="/Users/hunganh/TAU/SwTesting/source/src/toString.js">
-        <metrics statements="9" coveredstatements="8" conditionals="12" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
         <line num="4" count="3" type="stmt"/>
-        <line num="28" count="14" type="cond" truecount="2" falsecount="0"/>
-        <line num="29" count="8" type="stmt"/>
-        <line num="31" count="6" type="cond" truecount="2" falsecount="0"/>
-        <line num="33" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="35" count="5" type="cond" truecount="1" falsecount="1"/>
-        <line num="36" count="0" type="stmt"/>
+        <line num="28" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="10" type="stmt"/>
+        <line num="31" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="1" type="stmt"/>
         <line num="38" count="5" type="stmt"/>
         <line num="39" count="5" type="cond" truecount="4" falsecount="0"/>
       </file>
@@ -336,7 +336,7 @@
       </file>
     </package>
     <package name="src..internal">
-      <metrics statements="372" coveredstatements="230" conditionals="285" coveredconditionals="124" methods="63" coveredmethods="31"/>
+      <metrics statements="372" coveredstatements="243" conditionals="285" coveredconditionals="144" methods="63" coveredmethods="32"/>
       <file name="Hash.js" path="/Users/hunganh/TAU/SwTesting/source/src/.internal/Hash.js">
         <metrics statements="21" coveredstatements="1" conditionals="12" coveredconditionals="0" methods="6" coveredmethods="0"/>
         <line num="2" count="1" type="stmt"/>
@@ -414,22 +414,22 @@
         <line num="20" count="0" type="stmt"/>
       </file>
       <file name="arrayLikeKeys.js" path="/Users/hunganh/TAU/SwTesting/source/src/.internal/arrayLikeKeys.js">
-        <metrics statements="15" coveredstatements="1" conditionals="25" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <metrics statements="15" coveredstatements="14" conditionals="25" coveredconditionals="20" methods="1" coveredmethods="1"/>
         <line num="7" count="2" type="stmt"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="20" count="0" type="cond" truecount="0" falsecount="3"/>
-        <line num="21" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="22" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="23" count="0" type="stmt"/>
-        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="26" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="cond" truecount="3" falsecount="0"/>
+        <line num="21" count="1" type="cond" truecount="4" falsecount="0"/>
+        <line num="22" count="1" type="cond" truecount="4" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="1" type="stmt"/>
         <line num="27" count="0" type="stmt"/>
-        <line num="29" count="0" type="stmt"/>
-        <line num="30" count="0" type="cond" truecount="0" falsecount="5"/>
-        <line num="37" count="0" type="stmt"/>
-        <line num="40" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="2" type="cond" truecount="4" falsecount="1"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
       </file>
       <file name="arrayReduce.js" path="/Users/hunganh/TAU/SwTesting/source/src/.internal/arrayReduce.js">
         <metrics statements="7" coveredstatements="6" conditionals="6" coveredconditionals="3" methods="1" coveredmethods="1"/>
@@ -653,9 +653,9 @@
       <file name="getTag.js" path="/Users/hunganh/TAU/SwTesting/source/src/.internal/getTag.js">
         <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="21" type="stmt"/>
-        <line num="11" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="12" type="cond" truecount="1" falsecount="1"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="14" count="5" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
       </file>
       <file name="hasUnicode.js" path="/Users/hunganh/TAU/SwTesting/source/src/.internal/hasUnicode.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
@@ -698,9 +698,9 @@
       <file name="isPrototype.js" path="/Users/hunganh/TAU/SwTesting/source/src/.internal/isPrototype.js">
         <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="13" count="3" type="cond" truecount="2" falsecount="1"/>
-        <line num="15" count="3" type="stmt"/>
+        <line num="12" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="4" type="cond" truecount="2" falsecount="1"/>
+        <line num="15" count="4" type="stmt"/>
       </file>
       <file name="memoizeCapped.js" path="/Users/hunganh/TAU/SwTesting/source/src/.internal/memoizeCapped.js">
         <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>

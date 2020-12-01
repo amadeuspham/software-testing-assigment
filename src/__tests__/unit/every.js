@@ -22,4 +22,7 @@ describe('every should check if all array values are truthy according to a given
   it('should always return true for empty array', () => {
     expect(every([], Boolean)).toBe(true)
   })
+  it('should intepret length of null values as 0', () => {
+    expect(every(null, Boolean)).toBe(true)
+  })
 })

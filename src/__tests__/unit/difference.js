@@ -22,4 +22,7 @@ describe('difference should return an array containing elements in the first arr
     expect(difference([object], [object])).toStrictEqual([])
     expect(difference([object], [other])).toStrictEqual([object])
   })
+  it('should return empty arrays for non-array values', () => {
+    expect(difference('', [1, '0'])).toStrictEqual([])
+  })
 })

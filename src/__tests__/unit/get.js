@@ -17,4 +17,7 @@ describe('get return the value of a object at the given path, otherwise return t
     const object = { 'a': [{ 'b': { 'c': 3 } }] }
     expect(get(object, 'a.b.c')).toBe(undefined)
   })
+  it('should return the default value given a null object', () => {
+    expect(get(null, 'a.b.c', 'default')).toBe('default')
+  })
 })

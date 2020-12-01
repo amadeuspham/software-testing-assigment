@@ -9,4 +9,7 @@ describe('filter should return a new array containing the given array elements t
     expect(filter(users, ({ active }) => active)).toStrictEqual([{ 'user': 'barney', 'active': true }])
     expect(filter(users, ({ active }) => !active)).toStrictEqual([{ 'user': 'fred',   'active': false }])
   })
+  it('should intepret length of null values as 0', () => {
+    expect(filter(null, ({ active }) => active)).toStrictEqual([[]])
+  })
 })
