@@ -4,8 +4,6 @@ node_js:
 script: echo "Running tests against $(node -v)..."
 jobs:
   include:
-    - stage: Generating coverage
-      script: coveralls < coverage/lcov.info
     - stage: Linting
       script: npm run lint
     - stage: Testing & producing coverage
