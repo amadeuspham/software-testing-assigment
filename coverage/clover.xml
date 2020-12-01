@@ -1,51 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1605370810780" clover="3.2.0">
-  <project timestamp="1605370810781" name="All files">
-    <metrics statements="550" coveredstatements="375" conditionals="475" coveredconditionals="236" methods="106" coveredmethods="68" elements="1131" coveredelements="679" complexity="0" loc="550" ncloc="550" packages="2" files="83" classes="83"/>
+<coverage generated="1606698066947" clover="3.2.0">
+  <project timestamp="1606698066947" name="All files">
+    <metrics statements="430" coveredstatements="292" conditionals="365" coveredconditionals="186" methods="83" coveredmethods="46" elements="878" coveredelements="524" complexity="0" loc="430" ncloc="430" packages="2" files="64" classes="64"/>
     <package name="src">
-      <metrics statements="182" coveredstatements="149" conditionals="195" coveredconditionals="116" methods="44" coveredmethods="38"/>
-      <file name="add.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/add.js">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="16" count="5" type="stmt"/>
-      </file>
-      <file name="at.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/at.js">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="19" count="3" type="stmt"/>
-      </file>
-      <file name="camelCase.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/camelCase.js">
-        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
-        <line num="24" count="1" type="stmt"/>
-        <line num="25" count="4" type="stmt"/>
-        <line num="26" count="8" type="stmt"/>
-        <line num="27" count="8" type="cond" truecount="2" falsecount="0"/>
-      </file>
-      <file name="capitalize.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/capitalize.js">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="17" count="4" type="stmt"/>
-      </file>
-      <file name="castArray.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/castArray.js">
+      <metrics statements="138" coveredstatements="123" conditionals="152" coveredconditionals="109" methods="33" coveredmethods="28"/>
+      <file name="castArray.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\castArray.js">
         <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="34" count="9" type="stmt"/>
         <line num="35" count="9" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="ceil.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/ceil.js">
+      <file name="ceil.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\ceil.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="22" count="1" type="stmt"/>
       </file>
-      <file name="chunk.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/chunk.js">
-        <metrics statements="10" coveredstatements="10" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
-        <line num="23" count="4" type="stmt"/>
-        <line num="24" count="4" type="cond" truecount="2" falsecount="0"/>
-        <line num="25" count="4" type="cond" truecount="4" falsecount="0"/>
-        <line num="26" count="1" type="stmt"/>
-        <line num="28" count="3" type="stmt"/>
-        <line num="29" count="3" type="stmt"/>
-        <line num="30" count="3" type="stmt"/>
-        <line num="32" count="3" type="stmt"/>
-        <line num="33" count="8" type="stmt"/>
-        <line num="35" count="3" type="stmt"/>
-      </file>
-      <file name="clamp.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/clamp.js">
+      <file name="clamp.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\clamp.js">
         <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="6" methods="1" coveredmethods="1"/>
         <line num="19" count="3" type="stmt"/>
         <line num="20" count="3" type="stmt"/>
@@ -57,7 +25,7 @@
         <line num="26" count="3" type="cond" truecount="1" falsecount="1"/>
         <line num="28" count="3" type="stmt"/>
       </file>
-      <file name="compact.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/compact.js">
+      <file name="compact.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\compact.js">
         <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="15" count="3" type="stmt"/>
         <line num="16" count="3" type="stmt"/>
@@ -66,7 +34,7 @@
         <line num="20" count="11" type="stmt"/>
         <line num="23" count="3" type="stmt"/>
       </file>
-      <file name="countBy.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/countBy.js">
+      <file name="countBy.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\countBy.js">
         <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="5" count="1" type="stmt"/>
         <line num="30" count="4" type="stmt"/>
@@ -76,28 +44,19 @@
         <line num="35" count="8" type="stmt"/>
         <line num="37" count="12" type="stmt"/>
       </file>
-      <file name="defaultTo.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/defaultTo.js">
+      <file name="defaultTo.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\defaultTo.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="20" count="17" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="defaultToAny.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/defaultToAny.js">
+      <file name="defaultToAny.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\defaultToAny.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="29" count="5" type="stmt"/>
       </file>
-      <file name="difference.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/difference.js">
+      <file name="difference.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\difference.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="25" count="9" type="cond" truecount="1" falsecount="1"/>
       </file>
-      <file name="divide.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/divide.js">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="16" count="5" type="stmt"/>
-      </file>
-      <file name="drop.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/drop.js">
-        <metrics statements="2" coveredstatements="2" conditionals="7" coveredconditionals="4" methods="1" coveredmethods="1"/>
-        <line num="27" count="4" type="cond" truecount="1" falsecount="1"/>
-        <line num="28" count="4" type="cond" truecount="1" falsecount="1"/>
-      </file>
-      <file name="endsWith.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/endsWith.js">
+      <file name="endsWith.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\endsWith.js">
         <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
         <line num="24" count="8" type="stmt"/>
         <line num="25" count="8" type="cond" truecount="2" falsecount="0"/>
@@ -109,11 +68,11 @@
         <line num="33" count="8" type="stmt"/>
         <line num="34" count="8" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="eq.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/eq.js">
+      <file name="eq.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\eq.js">
         <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="32" count="10" type="cond" truecount="3" falsecount="0"/>
       </file>
-      <file name="every.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/every.js">
+      <file name="every.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\every.js">
         <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="23" count="7" type="stmt"/>
         <line num="24" count="7" type="cond" truecount="1" falsecount="1"/>
@@ -122,7 +81,7 @@
         <line num="28" count="3" type="stmt"/>
         <line num="31" count="4" type="stmt"/>
       </file>
-      <file name="filter.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/filter.js">
+      <file name="filter.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\filter.js">
         <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="25" count="2" type="stmt"/>
         <line num="26" count="2" type="stmt"/>
@@ -134,182 +93,149 @@
         <line num="33" count="2" type="stmt"/>
         <line num="36" count="2" type="stmt"/>
       </file>
-      <file name="get.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/get.js">
-        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="28" count="9" type="cond" truecount="1" falsecount="1"/>
-        <line num="29" count="9" type="cond" truecount="2" falsecount="0"/>
-      </file>
-      <file name="isArguments.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isArguments.js">
+      <file name="isArguments.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isArguments.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="isArrayLike.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isArrayLike.js">
+      <file name="isArrayLike.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isArrayLike.js">
         <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
-        <line num="27" count="33" type="cond" truecount="3" falsecount="0"/>
+        <line num="27" count="39" type="cond" truecount="3" falsecount="0"/>
       </file>
-      <file name="isArrayLikeObject.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isArrayLikeObject.js">
+      <file name="isArrayLikeObject.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isArrayLikeObject.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="28" count="26" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="isBuffer.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isBuffer.js">
+      <file name="isBoolean.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isBoolean.js">
+        <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="20" count="2" type="cond" truecount="3" falsecount="1"/>
+      </file>
+      <file name="isBuffer.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isBuffer.js">
         <metrics statements="6" coveredstatements="6" conditionals="17" coveredconditionals="14" methods="1" coveredmethods="0"/>
-        <line num="4" count="1" type="cond" truecount="4" falsecount="0"/>
-        <line num="7" count="1" type="cond" truecount="5" falsecount="0"/>
-        <line num="10" count="1" type="cond" truecount="2" falsecount="0"/>
-        <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="33" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="4" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="4" type="cond" truecount="5" falsecount="0"/>
+        <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="4" type="cond" truecount="1" falsecount="1"/>
       </file>
-      <file name="isLength.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isLength.js">
+      <file name="isDate.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isDate.js">
+        <metrics statements="4" coveredstatements="3" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="1"/>
+        <line num="6" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="isEmpty.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isEmpty.js">
+        <metrics statements="14" coveredstatements="12" conditionals="19" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="46" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="5" type="cond" truecount="5" falsecount="4"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="55" count="3" type="cond" truecount="3" falsecount="1"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="62" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+      </file>
+      <file name="isLength.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isLength.js">
         <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-        <line num="2" count="4" type="stmt"/>
-        <line num="29" count="32" type="cond" truecount="4" falsecount="0"/>
+        <line num="2" count="7" type="stmt"/>
+        <line num="29" count="41" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="isObject.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isObject.js">
-        <metrics statements="2" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="26" count="0" type="cond" truecount="0" falsecount="3"/>
+      <file name="isObject.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isObject.js">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="26" count="4" type="cond" truecount="3" falsecount="0"/>
       </file>
-      <file name="isObjectLike.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isObjectLike.js">
+      <file name="isObjectLike.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isObjectLike.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="24" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="33" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="isSymbol.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isSymbol.js">
-        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="19" count="8" type="stmt"/>
-        <line num="20" count="8" type="cond" truecount="2" falsecount="2"/>
-      </file>
-      <file name="isTypedArray.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/isTypedArray.js">
-        <metrics statements="5" coveredstatements="3" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="0"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="9" count="1" type="cond" truecount="2" falsecount="0"/>
-        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="27" count="0" type="stmt"/>
+      <file name="isTypedArray.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\isTypedArray.js">
+        <metrics statements="5" coveredstatements="4" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="9" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="2" type="stmt"/>
         <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="keys.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/keys.js">
+      <file name="keys.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\keys.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="32" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="32" count="3" type="cond" truecount="1" falsecount="1"/>
       </file>
-      <file name="map.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/map.js">
-        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="22" count="0" type="stmt"/>
-        <line num="24" count="0" type="stmt"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="27" count="0" type="stmt"/>
+      <file name="map.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\map.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
       </file>
-      <file name="memoize.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/memoize.js">
-        <metrics statements="13" coveredstatements="12" conditionals="13" coveredconditionals="9" methods="2" coveredmethods="2"/>
-        <line num="44" count="2" type="cond" truecount="4" falsecount="1"/>
-        <line num="45" count="0" type="stmt"/>
-        <line num="47" count="2" type="stmt"/>
-        <line num="48" count="7" type="cond" truecount="1" falsecount="1"/>
-        <line num="49" count="7" type="stmt"/>
-        <line num="51" count="7" type="cond" truecount="2" falsecount="0"/>
-        <line num="52" count="1" type="stmt"/>
-        <line num="54" count="6" type="stmt"/>
-        <line num="55" count="6" type="cond" truecount="1" falsecount="1"/>
-        <line num="56" count="6" type="stmt"/>
-        <line num="58" count="2" type="cond" truecount="1" falsecount="1"/>
-        <line num="59" count="2" type="stmt"/>
-        <line num="62" count="2" type="stmt"/>
+      <file name="memoize.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\memoize.js">
+        <metrics statements="13" coveredstatements="3" conditionals="13" coveredconditionals="2" methods="2" coveredmethods="1"/>
+        <line num="44" count="1" type="cond" truecount="2" falsecount="3"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
       </file>
-      <file name="reduce.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/reduce.js">
+      <file name="reduce.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\reduce.js">
         <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="39" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="40" count="4" type="stmt"/>
         <line num="41" count="4" type="stmt"/>
       </file>
-      <file name="slice.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/slice.js">
-        <metrics statements="16" coveredstatements="13" conditionals="16" coveredconditionals="8" methods="1" coveredmethods="1"/>
-        <line num="22" count="12" type="cond" truecount="1" falsecount="1"/>
-        <line num="23" count="12" type="cond" truecount="1" falsecount="1"/>
-        <line num="24" count="0" type="stmt"/>
-        <line num="26" count="12" type="cond" truecount="1" falsecount="1"/>
-        <line num="27" count="12" type="cond" truecount="1" falsecount="1"/>
-        <line num="29" count="12" type="cond" truecount="1" falsecount="1"/>
-        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="32" count="12" type="cond" truecount="1" falsecount="1"/>
-        <line num="33" count="0" type="stmt"/>
-        <line num="35" count="12" type="cond" truecount="2" falsecount="0"/>
-        <line num="36" count="12" type="stmt"/>
-        <line num="38" count="12" type="stmt"/>
-        <line num="39" count="12" type="stmt"/>
-        <line num="40" count="12" type="stmt"/>
-        <line num="41" count="20" type="stmt"/>
-        <line num="43" count="12" type="stmt"/>
+      <file name="slice.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\slice.js">
+        <metrics statements="16" coveredstatements="16" conditionals="16" coveredconditionals="13" methods="1" coveredmethods="1"/>
+        <line num="22" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="32" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="35" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="38" count="6" type="stmt"/>
+        <line num="39" count="6" type="stmt"/>
+        <line num="40" count="6" type="stmt"/>
+        <line num="41" count="11" type="stmt"/>
+        <line num="43" count="6" type="stmt"/>
       </file>
-      <file name="toFinite.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/toFinite.js">
-        <metrics statements="9" coveredstatements="7" conditionals="12" coveredconditionals="7" methods="1" coveredmethods="1"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="29" count="8" type="cond" truecount="2" falsecount="0"/>
-        <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="32" count="7" type="stmt"/>
-        <line num="33" count="7" type="cond" truecount="3" falsecount="1"/>
-        <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="35" count="0" type="stmt"/>
-        <line num="37" count="7" type="cond" truecount="1" falsecount="1"/>
-      </file>
-      <file name="toInteger.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/toInteger.js">
-        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="29" count="8" type="stmt"/>
-        <line num="30" count="8" type="stmt"/>
-        <line num="32" count="8" type="cond" truecount="1" falsecount="1"/>
-      </file>
-      <file name="toNumber.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/toNumber.js">
-        <metrics statements="18" coveredstatements="8" conditionals="22" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
-        <line num="11" count="2" type="stmt"/>
-        <line num="14" count="2" type="stmt"/>
-        <line num="17" count="2" type="stmt"/>
-        <line num="20" count="2" type="stmt"/>
-        <line num="45" count="7" type="cond" truecount="1" falsecount="1"/>
-        <line num="46" count="7" type="stmt"/>
-        <line num="48" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="49" count="0" type="stmt"/>
-        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="58" count="0" type="stmt"/>
-        <line num="59" count="0" type="stmt"/>
-        <line num="60" count="0" type="cond" truecount="0" falsecount="4"/>
-      </file>
-      <file name="toString.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/toString.js">
-        <metrics statements="9" coveredstatements="3" conditionals="12" coveredconditionals="1" methods="2" coveredmethods="1"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="28" count="8" type="cond" truecount="1" falsecount="1"/>
-        <line num="29" count="8" type="stmt"/>
-        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="36" count="0" type="stmt"/>
-        <line num="38" count="0" type="stmt"/>
-        <line num="39" count="0" type="cond" truecount="0" falsecount="4"/>
-      </file>
-      <file name="upperFirst.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/upperFirst.js">
+      <file name="upperFirst.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\upperFirst.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="19" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
       </file>
-      <file name="words.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/words.js">
-        <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="words.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\words.js">
+        <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="5" methods="2" coveredmethods="1"/>
         <line num="3" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
-        <line num="11" count="2" type="stmt"/>
-        <line num="31" count="4" type="cond" truecount="1" falsecount="1"/>
-        <line num="32" count="4" type="cond" truecount="2" falsecount="0"/>
-        <line num="33" count="4" type="cond" truecount="1" falsecount="1"/>
-        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="31" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="1" type="cond" truecount="1" falsecount="1"/>
       </file>
     </package>
     <package name="src..internal">
-      <metrics statements="368" coveredstatements="226" conditionals="280" coveredconditionals="120" methods="62" coveredmethods="30"/>
-      <file name="Hash.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/Hash.js">
+      <metrics statements="292" coveredstatements="169" conditionals="213" coveredconditionals="77" methods="50" coveredmethods="18"/>
+      <file name="Hash.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\Hash.js">
         <metrics statements="21" coveredstatements="1" conditionals="12" coveredconditionals="0" methods="6" coveredmethods="0"/>
         <line num="2" count="1" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
@@ -333,7 +259,7 @@
         <line num="83" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="84" count="0" type="stmt"/>
       </file>
-      <file name="MapCache.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/MapCache.js">
+      <file name="MapCache.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\MapCache.js">
         <metrics statements="22" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="8" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -358,7 +284,7 @@
         <line num="115" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="116" count="0" type="stmt"/>
       </file>
-      <file name="SetCache.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/SetCache.js">
+      <file name="SetCache.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\SetCache.js">
         <metrics statements="10" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
         <line num="4" count="1" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
@@ -371,12 +297,12 @@
         <line num="46" count="0" type="stmt"/>
         <line num="50" count="1" type="stmt"/>
       </file>
-      <file name="arrayIncludes.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/arrayIncludes.js">
+      <file name="arrayIncludes.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\arrayIncludes.js">
         <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="arrayIncludesWith.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/arrayIncludesWith.js">
+      <file name="arrayIncludesWith.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\arrayIncludesWith.js">
         <metrics statements="6" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="12" count="0" type="stmt"/>
@@ -385,9 +311,9 @@
         <line num="17" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="arrayLikeKeys.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/arrayLikeKeys.js">
+      <file name="arrayLikeKeys.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\arrayLikeKeys.js">
         <metrics statements="15" coveredstatements="1" conditionals="25" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="7" count="1" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
         <line num="18" count="0" type="stmt"/>
         <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="3"/>
@@ -403,7 +329,7 @@
         <line num="37" count="0" type="stmt"/>
         <line num="40" count="0" type="stmt"/>
       </file>
-      <file name="arrayReduce.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/arrayReduce.js">
+      <file name="arrayReduce.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\arrayReduce.js">
         <metrics statements="7" coveredstatements="6" conditionals="6" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="13" count="7" type="stmt"/>
         <line num="14" count="7" type="cond" truecount="1" falsecount="1"/>
@@ -413,27 +339,17 @@
         <line num="20" count="16" type="stmt"/>
         <line num="22" count="7" type="stmt"/>
       </file>
-      <file name="asciiToArray.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/asciiToArray.js">
+      <file name="asciiToArray.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\asciiToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
       </file>
-      <file name="baseAssignValue.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseAssignValue.js">
+      <file name="baseAssignValue.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseAssignValue.js">
         <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="11" count="8" type="cond" truecount="1" falsecount="1"/>
         <line num="12" count="0" type="stmt"/>
         <line num="19" count="8" type="stmt"/>
       </file>
-      <file name="baseAt.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseAt.js">
-        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="12" count="3" type="stmt"/>
-        <line num="13" count="3" type="stmt"/>
-        <line num="14" count="3" type="stmt"/>
-        <line num="15" count="3" type="stmt"/>
-        <line num="17" count="3" type="stmt"/>
-        <line num="18" count="5" type="cond" truecount="1" falsecount="1"/>
-        <line num="20" count="3" type="stmt"/>
-      </file>
-      <file name="baseDifference.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseDifference.js">
+      <file name="baseDifference.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseDifference.js">
         <metrics statements="29" coveredstatements="20" conditionals="22" coveredconditionals="14" methods="2" coveredmethods="1"/>
         <line num="8" count="1" type="stmt"/>
         <line num="22" count="9" type="stmt"/>
@@ -465,7 +381,7 @@
         <line num="57" count="0" type="stmt"/>
         <line num="60" count="9" type="stmt"/>
       </file>
-      <file name="baseEach.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseEach.js">
+      <file name="baseEach.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseEach.js">
         <metrics statements="11" coveredstatements="3" conditionals="6" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="13" count="2" type="cond" truecount="1" falsecount="1"/>
         <line num="14" count="0" type="stmt"/>
@@ -479,7 +395,7 @@
         <line num="25" count="0" type="stmt"/>
         <line num="28" count="0" type="stmt"/>
       </file>
-      <file name="baseFindIndex.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseFindIndex.js">
+      <file name="baseFindIndex.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseFindIndex.js">
         <metrics statements="6" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -488,22 +404,22 @@
         <line num="17" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="baseFlatten.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseFlatten.js">
-        <metrics statements="12" coveredstatements="8" conditionals="14" coveredconditionals="9" methods="1" coveredmethods="1"/>
-        <line num="15" count="12" type="cond" truecount="2" falsecount="0"/>
-        <line num="16" count="12" type="cond" truecount="2" falsecount="0"/>
-        <line num="18" count="12" type="cond" truecount="1" falsecount="1"/>
+      <file name="baseFlatten.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseFlatten.js">
+        <metrics statements="12" coveredstatements="8" conditionals="14" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="15" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="9" type="cond" truecount="1" falsecount="1"/>
         <line num="19" count="0" type="stmt"/>
-        <line num="22" count="12" type="stmt"/>
-        <line num="23" count="12" type="cond" truecount="3" falsecount="1"/>
-        <line num="24" count="12" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="9" type="stmt"/>
+        <line num="23" count="9" type="cond" truecount="3" falsecount="1"/>
+        <line num="24" count="9" type="cond" truecount="1" falsecount="1"/>
         <line num="26" count="0" type="stmt"/>
-        <line num="28" count="12" type="stmt"/>
+        <line num="28" count="9" type="stmt"/>
         <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="31" count="0" type="stmt"/>
-        <line num="34" count="12" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
       </file>
-      <file name="baseFor.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseFor.js">
+      <file name="baseFor.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseFor.js">
         <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="13" count="2" type="stmt"/>
         <line num="14" count="2" type="stmt"/>
@@ -515,98 +431,45 @@
         <line num="21" count="0" type="stmt"/>
         <line num="24" count="2" type="stmt"/>
       </file>
-      <file name="baseForOwn.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseForOwn.js">
+      <file name="baseForOwn.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseForOwn.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="13" count="2" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="baseGet.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseGet.js">
-        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
-        <line num="13" count="9" type="stmt"/>
-        <line num="15" count="9" type="stmt"/>
-        <line num="16" count="9" type="stmt"/>
-        <line num="18" count="9" type="cond" truecount="2" falsecount="0"/>
-        <line num="19" count="26" type="stmt"/>
-        <line num="21" count="9" type="cond" truecount="4" falsecount="0"/>
-      </file>
-      <file name="baseIndexOf.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseIndexOf.js">
+      <file name="baseIndexOf.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseIndexOf.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseIsNaN.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseIsNaN.js">
+      <file name="baseIsNaN.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseIsNaN.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
       </file>
-      <file name="baseReduce.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseReduce.js">
+      <file name="baseReduce.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\baseReduce.js">
         <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
         <line num="15" count="2" type="stmt"/>
         <line num="16" count="6" type="cond" truecount="1" falsecount="1"/>
         <line num="20" count="2" type="stmt"/>
       </file>
-      <file name="baseToNumber.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseToNumber.js">
-        <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="15" count="20" type="cond" truecount="1" falsecount="1"/>
-        <line num="16" count="20" type="stmt"/>
-        <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="21" count="0" type="stmt"/>
-      </file>
-      <file name="baseToString.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/baseToString.js">
-        <metrics statements="10" coveredstatements="2" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="24" count="0" type="stmt"/>
-        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="29" count="0" type="stmt"/>
-        <line num="30" count="0" type="cond" truecount="0" falsecount="4"/>
-      </file>
-      <file name="cacheHas.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/cacheHas.js">
+      <file name="cacheHas.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\cacheHas.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
       </file>
-      <file name="castPath.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/castPath.js">
-        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-        <line num="13" count="9" type="cond" truecount="2" falsecount="0"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="16" count="8" type="cond" truecount="2" falsecount="0"/>
-      </file>
-      <file name="castSlice.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/castSlice.js">
+      <file name="castSlice.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\castSlice.js">
         <metrics statements="3" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="createCaseFirst.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/createCaseFirst.js">
+      <file name="createCaseFirst.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\createCaseFirst.js">
         <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="4" methods="2" coveredmethods="2"/>
-        <line num="13" count="2" type="stmt"/>
-        <line num="14" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
         <line num="15" count="0" type="stmt"/>
-        <line num="18" count="8" type="cond" truecount="1" falsecount="1"/>
-        <line num="22" count="8" type="cond" truecount="1" falsecount="1"/>
-        <line num="26" count="8" type="cond" truecount="1" falsecount="1"/>
-        <line num="30" count="8" type="stmt"/>
+        <line num="18" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="2" type="stmt"/>
       </file>
-      <file name="createMathOperation.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/createMathOperation.js">
-        <metrics statements="13" coveredstatements="8" conditionals="16" coveredconditionals="11" methods="2" coveredmethods="2"/>
-        <line num="13" count="2" type="stmt"/>
-        <line num="14" count="10" type="cond" truecount="2" falsecount="2"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="17" count="10" type="cond" truecount="3" falsecount="1"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="20" count="10" type="cond" truecount="3" falsecount="1"/>
-        <line num="21" count="0" type="stmt"/>
-        <line num="23" count="10" type="cond" truecount="3" falsecount="1"/>
-        <line num="24" count="0" type="stmt"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="28" count="10" type="stmt"/>
-        <line num="29" count="10" type="stmt"/>
-        <line num="31" count="10" type="stmt"/>
-      </file>
-      <file name="createRound.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/createRound.js">
+      <file name="createRound.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\createRound.js">
         <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
         <line num="9" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
@@ -618,83 +481,69 @@
         <line num="19" count="4" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
       </file>
-      <file name="freeGlobal.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/freeGlobal.js">
+      <file name="freeGlobal.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\freeGlobal.js">
         <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="4" methods="0" coveredmethods="0"/>
-        <line num="2" count="1" type="cond" truecount="4" falsecount="0"/>
+        <line num="2" count="6" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="getTag.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/getTag.js">
+      <file name="getTag.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\getTag.js">
         <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="1" count="11" type="stmt"/>
-        <line num="11" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="11" count="5" type="cond" truecount="1" falsecount="1"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="14" count="2" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
       </file>
-      <file name="hasUnicode.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/hasUnicode.js">
+      <file name="hasUnicode.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\hasUnicode.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="3" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-        <line num="12" count="2" type="stmt"/>
-        <line num="15" count="2" type="stmt"/>
-        <line num="25" count="8" type="stmt"/>
-      </file>
-      <file name="isFlattenable.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/isFlattenable.js">
-        <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="1" methods="1" coveredmethods="1"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="14" count="3" type="cond" truecount="1" falsecount="2"/>
-      </file>
-      <file name="isIndex.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/isIndex.js">
-        <metrics statements="5" coveredstatements="2" conditionals="9" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+      <file name="isFlattenable.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\isFlattenable.js">
+        <metrics statements="2" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="3"/>
+      </file>
+      <file name="isIndex.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\isIndex.js">
+        <metrics statements="5" coveredstatements="2" conditionals="9" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
         <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="19" count="0" type="cond" truecount="0" falsecount="7"/>
       </file>
-      <file name="isKey.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/isKey.js">
-        <metrics statements="8" coveredstatements="7" conditionals="12" coveredconditionals="11" methods="1" coveredmethods="1"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="16" count="8" type="cond" truecount="1" falsecount="1"/>
-        <line num="17" count="0" type="stmt"/>
-        <line num="19" count="8" type="stmt"/>
-        <line num="20" count="8" type="cond" truecount="6" falsecount="0"/>
-        <line num="21" count="1" type="stmt"/>
-        <line num="23" count="7" type="cond" truecount="4" falsecount="0"/>
+      <file name="isPrototype.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\isPrototype.js">
+        <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="3" type="cond" truecount="2" falsecount="1"/>
+        <line num="15" count="3" type="stmt"/>
       </file>
-      <file name="memoizeCapped.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/memoizeCapped.js">
-        <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="15" count="2" type="stmt"/>
-        <line num="16" count="7" type="stmt"/>
-        <line num="17" count="7" type="cond" truecount="1" falsecount="1"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="20" count="7" type="stmt"/>
-        <line num="23" count="2" type="stmt"/>
-      </file>
-      <file name="nodeTypes.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/nodeTypes.js">
+      <file name="nodeTypes.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\nodeTypes.js">
         <metrics statements="8" coveredstatements="8" conditionals="21" coveredconditionals="17" methods="1" coveredmethods="1"/>
-        <line num="4" count="1" type="cond" truecount="4" falsecount="0"/>
-        <line num="7" count="1" type="cond" truecount="5" falsecount="0"/>
-        <line num="10" count="1" type="cond" truecount="2" falsecount="0"/>
-        <line num="13" count="1" type="cond" truecount="2" falsecount="0"/>
-        <line num="16" count="1" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
-        <line num="20" count="1" type="cond" truecount="3" falsecount="0"/>
-        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="4" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="5" type="cond" truecount="5" falsecount="0"/>
+        <line num="10" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="20" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="21" count="5" type="cond" truecount="1" falsecount="1"/>
       </file>
-      <file name="root.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/root.js">
+      <file name="root.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\root.js">
         <metrics statements="3" coveredstatements="3" conditionals="12" coveredconditionals="9" methods="0" coveredmethods="0"/>
-        <line num="5" count="1" type="cond" truecount="4" falsecount="0"/>
-        <line num="8" count="1" type="cond" truecount="4" falsecount="0"/>
-        <line num="11" count="1" type="cond" truecount="1" falsecount="3"/>
+        <line num="5" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="8" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="4" type="cond" truecount="1" falsecount="3"/>
       </file>
-      <file name="strictIndexOf.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/strictIndexOf.js">
+      <file name="strictIndexOf.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\strictIndexOf.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -703,64 +552,38 @@
         <line num="17" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="stringToArray.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/stringToArray.js">
+      <file name="stringToArray.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\stringToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="stringToPath.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/stringToPath.js">
-        <metrics statements="15" coveredstatements="13" conditionals="6" coveredconditionals="4" methods="2" coveredmethods="2"/>
-        <line num="3" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="26" count="2" type="stmt"/>
-        <line num="27" count="6" type="stmt"/>
-        <line num="28" count="6" type="cond" truecount="1" falsecount="1"/>
-        <line num="29" count="0" type="stmt"/>
-        <line num="31" count="6" type="stmt"/>
-        <line num="32" count="20" type="stmt"/>
-        <line num="33" count="20" type="cond" truecount="1" falsecount="1"/>
-        <line num="34" count="0" type="stmt"/>
-        <line num="36" count="20" type="cond" truecount="2" falsecount="0"/>
-        <line num="37" count="5" type="stmt"/>
-        <line num="39" count="20" type="stmt"/>
-        <line num="41" count="6" type="stmt"/>
-      </file>
-      <file name="toKey.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/toKey.js">
-        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="14" count="26" type="cond" truecount="4" falsecount="0"/>
-        <line num="15" count="25" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
-        <line num="18" count="1" type="cond" truecount="2" falsecount="2"/>
-      </file>
-      <file name="unicodeToArray.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/unicodeToArray.js">
+      <file name="unicodeToArray.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\unicodeToArray.js">
         <metrics statements="24" coveredstatements="23" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="3" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-        <line num="12" count="2" type="stmt"/>
-        <line num="13" count="2" type="stmt"/>
-        <line num="14" count="2" type="stmt"/>
-        <line num="15" count="2" type="stmt"/>
-        <line num="16" count="2" type="stmt"/>
-        <line num="17" count="2" type="stmt"/>
-        <line num="18" count="2" type="stmt"/>
-        <line num="19" count="2" type="stmt"/>
-        <line num="22" count="2" type="stmt"/>
-        <line num="23" count="2" type="stmt"/>
-        <line num="24" count="2" type="stmt"/>
-        <line num="25" count="2" type="stmt"/>
-        <line num="26" count="2" type="stmt"/>
-        <line num="27" count="2" type="stmt"/>
-        <line num="30" count="2" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
         <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="unicodeWords.js" path="/Users/hunganh/Desktop/TAU/SwTesting/source/src/.internal/unicodeWords.js">
+      <file name="unicodeWords.js" path="C:\Users\Thuan\Documents\Tampere Master\Sw_testing_project\software-testing-assigment\src\.internal\unicodeWords.js">
         <metrics statements="43" coveredstatements="43" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -804,7 +627,7 @@
         <line num="45" count="1" type="stmt"/>
         <line num="46" count="1" type="stmt"/>
         <line num="48" count="1" type="stmt"/>
-        <line num="67" count="2" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
       </file>
     </package>
   </project>

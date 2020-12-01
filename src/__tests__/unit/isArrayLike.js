@@ -22,3 +22,4 @@ describe('isArrayLike should check if a value is array-like', () => {
     expect(isArrayLike(true)).toBe(false)
   })
 })
+
