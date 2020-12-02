@@ -21,5 +21,4 @@ jobs:
 addons:
   artifacts: true
   paths:
-    - $(git ls-files -o | tr "\n" ":")
-    - $(ls /var/log/*.log | tr "\n" ":")
+    - ./test-report.html
