@@ -3,9 +3,9 @@ node_js:
   - "node"
 script: echo "Running tests against $(node -v)..."
 env:
-  global:
-    - ARTIFACTS_KEY=AKIAXX6WT6EGFIRLLZ7F
-    - ARTIFACTS_BUCKET=harrythaotesting
+  - ARTIFACTS_KEY=AKIAXX6WT6EGFIRLLZ7F
+  - ARTIFACTS_BUCKET=harrythaotesting
+  - ARTIFACTS_PATHS="./test-report.html"
   - CAN_FAIL=false
 jobs:
   allow_failures: 
@@ -23,5 +23,3 @@ jobs:
       script: coveralls < coverage/lcov.info
 addons:
   artifacts: true
-  paths:
-    - ./test-report.html
