@@ -22,4 +22,11 @@ jobs:
     - stage: Generating coverage
       script: coveralls < coverage/lcov.info
 addons:
-  artifacts: true
+  artifacts:
+    debug: true
+    paths:
+      - ./test-report.html
+    target_paths: $TRAVIS_BUILD_NUMBER
+    working_dir: WORKING_DIR
+    bucket: harrythaotesting
+    s3_region: us-east-1
