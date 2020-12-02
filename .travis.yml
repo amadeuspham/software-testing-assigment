@@ -3,9 +3,7 @@ node_js:
   - "node"
 script: echo "Running tests against $(node -v)..."
 env:
-  - ARTIFACTS_KEY=AKIAXX6WT6EGFIRLLZ7F
-  - ARTIFACTS_BUCKET=harrythaotesting
-  - ARTIFACTS_PATHS="./test-report.html"
+  - ARTIFACTS_KEY=AKIAXX6WT6EGFIRLLZ7F ARTIFACTS_BUCKET=harrythaotesting ARTIFACTS_PATHS="./test-report.html"
   - CAN_FAIL=false
 jobs:
   allow_failures: 
@@ -28,5 +26,4 @@ addons:
       - ./test-report.html
     target_paths: $TRAVIS_BUILD_NUMBER
     working_dir: WORKING_DIR
-    bucket: harrythaotesting
     s3_region: us-east-1
