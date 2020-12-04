@@ -16,4 +16,7 @@ describe('divide divides two numbers', () => {
   it('should not divide by 0', () => {
     expect(divide(6,0)).toBe(NaN)
   })
+  it('should divide decimals correctly', () => {
+    expect(divide(65.5, 10)).toBe(6.55)
+  })
 })
