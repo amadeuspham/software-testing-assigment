@@ -11,11 +11,7 @@ npm install
 ```
 
 ## Usage
-3. Run tests (all tests are inside /src/__tests__)
+Run tests (all tests are inside /src/__tests__)
 ```
 npm test
-```
-3. Run linter
-```
-npm run lint
 ```
