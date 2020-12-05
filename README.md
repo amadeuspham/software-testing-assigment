@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/amadeuspham/software-testing-assigment.svg?branch=main)](https://travis-ci.com/amadeuspham/software-testing-assigment)
 
 ## Installation
-1. First, make sure you have [Node](https://nodejs.org/en) installed. This project can run on Node 13 or 14 (14 is recommended). Run `node -v` in Terminal to check your version.
+1. First, make sure you have [Node](https://nodejs.org/en) installed. This project can run on at least Node 13 or 14 (14 is recommended). Run `node -v` in Terminal to check your version.
 
 2. Install necessary dependencies
 ```
@@ -19,5 +19,3 @@ npm test
 ```
 npm run lint
 ```
-
-4. Student
