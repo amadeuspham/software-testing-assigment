@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607124080194" clover="3.2.0">
-  <project timestamp="1607124080194" name="All files">
+<coverage generated="1607130374786" clover="3.2.0">
+  <project timestamp="1607130374786" name="All files">
     <metrics statements="573" coveredstatements="441" conditionals="509" coveredconditionals="340" methods="111" coveredmethods="77" elements="1193" coveredelements="858" complexity="0" loc="573" ncloc="573" packages="2" files="87" classes="87"/>
     <package name="src">
       <metrics statements="201" coveredstatements="198" conditionals="224" coveredconditionals="196" methods="48" coveredmethods="45"/>
@@ -99,15 +99,15 @@
       </file>
       <file name="endsWith.js" path="/Users/hunganh/TAU/SwTesting/source/src/endsWith.js">
         <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
-        <line num="24" count="10" type="stmt"/>
-        <line num="25" count="10" type="cond" truecount="2" falsecount="0"/>
-        <line num="26" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="24" count="11" type="stmt"/>
+        <line num="25" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="11" type="cond" truecount="4" falsecount="0"/>
         <line num="27" count="3" type="stmt"/>
-        <line num="29" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="8" type="cond" truecount="2" falsecount="0"/>
         <line num="30" count="2" type="stmt"/>
-        <line num="32" count="10" type="stmt"/>
-        <line num="33" count="10" type="stmt"/>
-        <line num="34" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="11" type="stmt"/>
+        <line num="33" count="11" type="stmt"/>
+        <line num="34" count="11" type="cond" truecount="2" falsecount="0"/>
       </file>
       <file name="eq.js" path="/Users/hunganh/TAU/SwTesting/source/src/eq.js">
         <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>

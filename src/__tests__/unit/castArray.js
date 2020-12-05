@@ -24,6 +24,6 @@ describe('castArray should cast value(s), no matter the type to an array (if it\
     expect(castArray(['boo', 'ya', 'ka', 'sha'])).toEqual(['boo', 'ya', 'ka', 'sha'])
   })
   it('should cast an empty value to an empty array', () => {
-    expect(castArray()).toEqual([])
+    expect(castArray([])).toEqual([])
   })
 })
